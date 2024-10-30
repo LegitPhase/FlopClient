@@ -11,3 +11,5 @@ i do not own any of this code. All the original code is from
 > borunot on discord
 > https://www.youtube.com/channel/UCYKqA04C5OYk0GBxuHKbjpA
 > https://github.com/sussylol/Vestige-v3-open-src
+
+i didnt bother to fix some visual stuff -> commented part on either RenderUtils pr DrawUtil idfk icba
