@@ -14,3 +14,5 @@ i do not own any of this code. All the original code is from
 
 i didnt bother to fix some visual stuff -> commented part on either RenderUtils pr DrawUtil idfk icba
 Credits to https://github.com/WalmartSolutions/Flap-Client for cracked & deobfed jar
+
+do /freeflap on the dog private discord for free flap client !
