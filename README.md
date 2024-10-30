@@ -13,3 +13,4 @@ i do not own any of this code. All the original code is from
 > https://github.com/sussylol/Vestige-v3-open-src
 
 i didnt bother to fix some visual stuff -> commented part on either RenderUtils pr DrawUtil idfk icba
+Credits to https://github.com/WalmartSolutions/Flap-Client for cracked & deobfed jar
