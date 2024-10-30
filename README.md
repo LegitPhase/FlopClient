@@ -5,3 +5,9 @@
 ADD -Djava.library.path=../natives/windows to run 
 
  > https://api-minecraft.net/v1/2s1nyi4y.png
+
+i do not own any of this code. All the original code is from 
+
+> borunot on discord
+> https://www.youtube.com/channel/UCYKqA04C5OYk0GBxuHKbjpA
+> https://github.com/sussylol/Vestige-v3-open-src
